@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style/style-general.css" />
+    <link rel="shortcut icon" href="img/logo.png" />
+    <title>Cocktail Odyssey</title>
+  </head>
+  <body>
+    <div class="site-wrapper">
+    <header>Cocktails & Recettes</header>
+    <div class="fond-principal">
+      <div class="fond-section1 centrer-text">
+        <h1>Bienvenue sur Cocktail Odyssey</h1>
+      </div>
+      <div class="centrer">
+        <img src="img/logo.png" alt="logo" height="400" width="400" />
+      </div>
+      <br />
+      <div class="fond-section1">
+        <p>
+          Un cocktail est une boisson réalisée en mélangeant plusieurs
+          ingrédients, souvent alcoolisés mais peut également être non
+          alcoolisés, pour créer une saveur unique. Les cocktails peuvent être
+          servis frais, décorés et sont appréciés pour leur diversité et leur
+          créativité.
+        </p>
+      </div>
+      <div class="fond-section1">
+        <h2>Navigation</h2>
+        <div class="navigation-container">
+          <a class="nav-btn nav-btn-top" href="whisky-nav.html">Whisky</a>
+          <div class="navigation-row">
+            <a class="nav-btn nav-btn-left" href="gin-nav.html">Gin</a>
+            <div class="centrer">
+              <img src="img/navigation.png" alt="Navigation"/>
+            </div>
+            <a class="nav-btn nav-btn-right" href="vodka-nav.html">Vodka</a>
+          </div>
+          <a class="nav-btn nav-btn-bottom" href="rhum-nav.html">Rhum</a>
+        </div>
+      </div>
+      <div class="fond-section1">
+        <h2>Favoris</h2>
+        <p>
+          <div class="favoris-btn-group">
+            <a class="favoris-btn" href="mojito.html">Favori de Madame</a>
+            <a class="favoris-btn" href="vodka-orange.html">Favori de Monsieur</a>
+            <a class="favoris-btn" href="sex-on-the-beach.html">Favori de Maman</a>
+            <a class="favoris-btn" href="gold-rush.html">Favori de Papa</a>
+          </div>
+        </p>
+      </div>
+      <div class="fond-section1">
+        <button class="bouton-aleatoire centrer" onclick="PageAleatoire()">
+          Découvrir un cocktail au hasard
+        </button>
+        <div class="centrer-text" style="margin-top: 12px;">
+          <small>Le site liste actuellement 8 cocktails</small>
+        </div>
+      </div>
+      <hr />
+      <div class="fond-section1">
+        <p>
+          <strong> Voici les </strong>
+          <a href="top10/top10.html" target="_blank">10 Cocktails</a>
+          <strong> préférés des français </strong>
+        </p>
+      </div>
+      <script>
+        function PageAleatoire() {
+          const pages = [
+            "mojito.html",
+            "vodka-orange.html",
+            "blue-lagoon.html",
+            "sex-on-the-beach.html",
+            "midleton-mule.html",
+            "pina-colada.html",
+            "gold-rush.html",
+            "gin-tonic.html",
+          ];
+          const aleatoire = pages[Math.floor(Math.random() * pages.length)];
+          window.location.href = aleatoire;
+        }
+      </script>
+      <div class="centrer-text">
+      <small><p>/!\ l'abus d'alcool est dangereux pour la santé. À consommer avec modération !</p></small>
+      </div>
+    </div>
+    <div class="centrer-text">
+    <footer>
+      <p>&copy; 2025 Cocktail Odyssey. Tous droits réservés.</p>
+    </footer>
+    </div>
+  </div>
+  </body>
+</html>
