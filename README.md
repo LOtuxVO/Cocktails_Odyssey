@@ -47,5 +47,5 @@
 ## 🌸 Keep Pushing
 > ⚠️ *L'abus d'alcool est dangereux pour la santé, à consommer avec modération.*
 > 
-> Si ce projet vous a plu, n'hésitez pas à laisser une ⭐ sur le repo !
-> ©EdgarPullès
+> Si ce projet vous a plu, n'hésitez pas à laisser une ⭐ sur le repo ! 
+> | ©EdgarPullès
