@@ -28,10 +28,13 @@
   </tr>
 </table>
 
-  <!-- Bouton Cocktails Odyssey -->
-  <a href="https://lotuxvo.github.io/Cocktails_Odyssey" target="_blank">
-    <img src="https://img.shields.io/badge/Cocktails Odyssey-B57EDC?style=for-the-badge&logo=wine&logoColor=white" alt="Cocktails Odyssey" width="215">
+## &nbsp;&nbsp; 🧭 L'Odyssée commence ici
+
+<p align="center">
+  <a href="URL_DU_SITE">
+    <img src="https://img.shields.io/badge/Cocktails%20Odyssey-B57EDC?style=for-the-badge&logo=wine&logoColor=white" width="215" alt="Cocktails Odyssey">
   </a>
+</p>
 
 ## 💻 Stack Technique
 <p align="left">
