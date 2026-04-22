@@ -31,7 +31,7 @@
 ## &nbsp;&nbsp; 🧭 L'Odyssée commence ici
 
 <p align="center">
-  <a href="URL_DU_SITE">
+  <a href="lotuxvo.github.io/Cocktails_Odyssey/">
     <img src="https://img.shields.io/badge/Cocktails%20Odyssey-B57EDC?style=for-the-badge&logo=wine&logoColor=white" width="215" alt="Cocktails Odyssey">
   </a>
 </p>
