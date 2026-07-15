@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-## 🌸 Keep Pushing
+## 🌸 Allier Technique et Passion !
 > ⚠️ *L'abus d'alcool est dangereux pour la santé, à consommer avec modération.*
 > 
 > Si ce projet vous a plu, n'hésitez pas à laisser une ⭐ sur le repo ! 
